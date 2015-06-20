@@ -8,6 +8,7 @@ import javax.persistence.NoResultException;
 
 import dz.ajug.qa.model.Question;
 
+
 public class QuestionDAO {
 
 	@Inject
